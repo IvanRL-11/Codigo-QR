@@ -30,7 +30,7 @@ body {
 
 .container {
     background-color: hsl(0, 0%, 100%);
-    width: 320px;
+    max-width: 320px;
     justify-items: center;
     border-radius: 20px;
     padding: 16px 0 40px 0;
